@@ -1,4 +1,4 @@
-nsight BI – TrendWear-Analytics_PowerBI_project3
+insight BI – TrendWear-Analytics_PowerBI_project3
 📌 Project Description
 
 Insight BI is a Power BI project focused on analyzing men’s fashion retail data using two interactive dashboards. The project provides insights into brand performance, sales trends, discount percentages, profit analysis, and product variety through visually engaging reports.
